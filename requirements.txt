@@ -1,0 +1,1 @@
+streamlit-free-text-select==0.2.0
